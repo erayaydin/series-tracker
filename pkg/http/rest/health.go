@@ -1,8 +1,9 @@
 package rest
 
 import (
-	"github.com/gin-gonic/gin"
 	"net/http"
+
+	"github.com/gin-gonic/gin"
 )
 
 type healthController struct {
